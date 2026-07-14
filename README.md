@@ -5,7 +5,6 @@
 <div align="center">
   <a href="https://linkedin.com/in/meghna-yadav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:meghu3023@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Meghna-ydv12&color=blue&style=for-the-badge&label=VIEWS" />
 </div>
 
 <br/>
@@ -22,8 +21,10 @@
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,postgres,docker" /><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,nextjs,react,fastapi,tailwind" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,html,css,nodejs" /><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,nextjs,react,fastapi,flask,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,prisma,docker,linux,bash" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
 </div>
 
 <br/>
@@ -35,12 +36,3 @@
 | **Dual-Task AI Air Quality Forecaster**<br>Interactive Digital Twin simulator using XGBoost, Random Forest, and SHAP-driven Expert System.<br>*(FastAPI, React, XGBoost)* | **Urban Heat Mitigation Dashboard**<br>Geospatial mapping forecasting localized temperature reductions (up to 4.8°C) under 2 seconds.<br>*(React, Deck.gl, Python)* |
 | 🎨 **PixelPrompt** | 🛍️ **PriceSmart AI** |
 | **AI UI Component Generator SaaS**<br>100% automated React UI generation via natural language with sub-second streaming latency.<br>*(Next.js, Prisma, LLMs)* | **Intelligent Price Comparison**<br>Full-stack e-commerce tool with voice search and time-series model forecasting 7-day price trends.<br>*(Node.js, React, REST)* |
-
-<br/>
-
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meghna-ydv12&show_icons=true&theme=transparent&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=0A66C2" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghna-ydv12&layout=compact&theme=transparent&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" width="48%" />
-</div>
